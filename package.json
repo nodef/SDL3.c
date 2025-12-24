@@ -1,0 +1,29 @@
+{
+  "name": "sdl3.c",
+  "version": "1.2025.3",
+  "description": "📚 Single header utf8 string functions for C and C++; Neil Henning (2015).",
+  "keywords": [
+    "c",
+    "library",
+    "utf8",
+    "utf-8",
+    "string",
+    "header-only",
+    "unicode",
+    "string"
+  ],
+  "homepage": "https://github.com/nodef/sdl3.c#readme",
+  "bugs": {
+    "url": "https://github.com/nodef/sdl3.c/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodef/sdl3.c.git"
+  },
+  "license": "UNLICENSED",
+  "author": "wolfram77@gmail.com",
+  "main": "utf8.h",
+  "scripts": {
+    "test": "bash build.sh test"
+  }
+}
